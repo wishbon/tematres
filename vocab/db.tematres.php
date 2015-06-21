@@ -34,10 +34,10 @@ $DBCFG["Server"]      = "localhost";
 $DBCFG["DBName"]     = "tematres";
 
 //  Nombre de usuario - login
-$DBCFG["DBLogin"]    = "root";
+$DBCFG["DBLogin"]    = "tematres";
 
 //  Passwords
-$DBCFG["DBPass"] = "";
+$DBCFG["DBPass"] = "tematres";
 
 //  Prefijo para tablas # Prefix for tables
 $DBCFG["DBprefix"] = "bit__";                
